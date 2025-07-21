@@ -86,19 +86,19 @@ This Power BI dashboard provides an interactive and detailed view of sales perfo
 ## Screenshots
 
 ### Sales Overview Page
-![Sales Overview](images/sales-overview.png)
+![Sales Overview](image/Overview.png)
 
 ### Product Performance
-![Product Performance](images/product-performance.png)
+![Product Performance](image/Product-review.png)
 
 ### Regional Analysis
-![Regional Analysis](images/regional-analysis.png)
+![Regional Analysis](image/Regional-analysis.png)
 
 ### Reseller Insights
-![Reseller Insights](images/reseller-insights.png)
+![Reseller Insights](image/Resellers-insights.png)
 
 ### Salesperson Evaluation
-![Salesperson Evaluation](images/salesperson-evaluation.png)
+![Salesperson Evaluation](image/Salesperson-evaluation.png)
 
 ---
 
